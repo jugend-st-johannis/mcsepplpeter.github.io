@@ -1,0 +1,293 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="st-johannis-nuernberg.de/jugend" resolutions="1x" timestamp="1492091993061">
+  <folder name="css">
+    <file name="site_global.css" crc="3764326527"/>
+    <file name="master_a-musters.css" crc="4258822230" ref="das-gibt´s:wir:galerie:index:demnächst"/>
+    <file name="nomq_preview_master_a-musters.css" crc="68996929" ref="das-gibt´s:wir:galerie:index:demnächst"/>
+    <file name="das-gibt_s.css" crc="3763530169" ref="das-gibt´s"/>
+    <file name="nomq_das-gibt_s.css" crc="3941427937" ref="das-gibt´s"/>
+    <file name="wir.css" crc="4181768403" ref="wir"/>
+    <file name="nomq_wir.css" crc="3801673680" ref="wir"/>
+    <file name="galerie.css" crc="153650783" ref="galerie"/>
+    <file name="nomq_galerie.css" crc="235757597" ref="galerie"/>
+    <file name="index.css" crc="4014360038" ref="index"/>
+    <file name="nomq_index.css" crc="192839593" ref="index"/>
+    <file name="demn_chst.css" crc="41235878" ref="demnächst"/>
+    <file name="nomq_demn_chst.css" crc="4002916528" ref="demnächst"/>
+  </folder>
+  <folder name="assets">
+    <file name="18.09-kirche.jpg" crc="4282163798" seo="true" mt="1491986902000"/>
+    <file name="18.09-tabea-scharf.jpg" crc="53294199" seo="true" mt="1491987182000"/>
+    <file name="18.09-tabea.jpg" crc="375378411" seo="true" mt="1491987138000"/>
+    <file name="jugendkeller-fritz.jpg" crc="4032972722" seo="true" mt="1491987324000"/>
+    <file name="jugendkeller-küche.jpg" crc="4209801074" seo="true" mt="1491987340000"/>
+    <file name="keinmenschistillegal.jpg" crc="478960146" seo="true" mt="1491987082000"/>
+    <file name="kletteraktion.jpg" crc="4223503467" seo="true" mt="1491987210000"/>
+    <file name="juggern.jpg" crc="4069674576" seo="true" mt="1491987274000"/>
+    <file name="ikea.jpg" crc="328175803" seo="true" mt="1491987284000"/>
+    <file name="20150712_183030.jpg" crc="40143999" seo="true" mt="1436718630000"/>
+    <file name="jugendfreizeit.jpg" crc="3918375752" seo="true" mt="1491987020000"/>
+    <file name="1ausschreibung-fahrrad-jugendfreizeit-st.-johannis-2017.pdf" crc="166293856" seo="true" mt="1492088822000"/>
+    <file name="message-18.09-26.03.2017.pdf" crc="4057411748" seo="true" mt="1492091521000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="museutils.js" crc="4232573551" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="whatinput.js" crc="86476730" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="webpro.js" crc="3770351119" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="require.js" crc="4234670167" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+  </folder>
+  <folder name="images">
+    <file name="bildmaterial-1.svg" crc="4043001728" seo="true" ref="index:demnächst:wir:galerie:das-gibt´s">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+    </file>
+    <file name="bildmaterial 1_poster_.png" crc="4261074263" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="1809 kirche.jpg" crc="4282163798" seo="true" ref="index:galerie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20150712_183452.jpg" crc="4188770778" ref="index:demnächst:wir:galerie:das-gibt´s">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="das-gibt´s" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+      <caption webpage="demnächst" alt=""/>
+    </file>
+    <file name="jugendfreizeit.jpg" crc="3918375752" seo="true" ref="index:galerie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jugendkeller fritz.jpg" crc="4032972722" seo="true" ref="index:galerie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jugendkeller küche.jpg" crc="4209801074" seo="true" ref="index:galerie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keinmenschistillegal.jpg" crc="478960146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:das-gibt´s"/>
+    <file name="flyer osternacht.jpg" crc="56055763" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20170309_175242_271.jpg" crc="4052609752" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub-verkehrsschilder-_zeichen_237.jpg" crc="4233874920" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1809 tabea.jpg" crc="194831816" ref="index:galerie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="u12444.png" crc="4071678024" ref="index:demnächst:wir:galerie:das-gibt´s"/>
+    <file name="1809 tabea-u1250-fr.jpg" crc="124009767" ref="index"/>
+    <file name="1809 tabea-u1250-fr2.jpg" crc="314029098" ref="index"/>
+    <file name="20150712_1834521352x761.jpg" crc="21606111" ref="demnächst">
+      <caption webpage="demnächst" alt=""/>
+    </file>
+    <file name="20150712_1834521042x586.jpg" crc="4181795097" ref="demnächst">
+      <caption webpage="demnächst" alt=""/>
+    </file>
+    <file name="whatsapp image 2017-04-12 at 150814.jpg" crc="152552161" ref="wir">
+      <caption webpage="wir" alt=""/>
+    </file>
+    <file name="p1020941.jpg" crc="3864492902" ref="wir">
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+      <caption webpage="wir" alt=""/>
+    </file>
+    <file name="20150712_1834521352x760.jpg" crc="21606111" ref="wir">
+      <caption webpage="wir" alt=""/>
+    </file>
+    <file name="1809 kirche-u20621-fr.jpg" crc="494516985" ref="galerie"/>
+    <file name="1809 tabea scharf-u20725-fr.jpg" crc="338076644" ref="galerie"/>
+    <file name="1809 tabea-u20811-fr.jpg" crc="4095269128" ref="galerie"/>
+    <file name="kletteraktion-u20938-fr.jpg" crc="510463102" ref="galerie"/>
+    <file name="ikea-u20957-fr.jpg" crc="4222676929" ref="galerie"/>
+    <file name="keinmenschistillegal-u20976-fr.jpg" crc="495564229" ref="galerie"/>
+    <file name="jugendkeller fritz-u21141-fr.jpg" crc="192046794" ref="galerie"/>
+    <file name="jugendkeller küche-u22606-fr.jpg" crc="4219005398" ref="galerie"/>
+    <file name="jugendfreizeit-u22630-fr.jpg" crc="3779591998" ref="galerie"/>
+    <file name="1809 tabea scharf.jpg" crc="74238671" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="1809 tabea-u20804-fr.jpg" crc="504178049" ref="galerie"/>
+    <file name="kletteraktion.jpg" crc="536063192" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="ikea.jpg" crc="328175803" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="keinmenschistillegal-u20973-fr.jpg" crc="54905705" ref="galerie"/>
+    <file name="1809 kirche-u20621-fr2.jpg" crc="277704247" ref="galerie"/>
+    <file name="1809 tabea scharf-u20725-fr2.jpg" crc="4106879753" ref="galerie"/>
+    <file name="1809 tabea-u20811-fr2.jpg" crc="89970871" ref="galerie"/>
+    <file name="kletteraktion-u20938-fr2.jpg" crc="4179221614" ref="galerie"/>
+    <file name="ikea-u20957-fr2.jpg" crc="3895744209" ref="galerie"/>
+    <file name="keinmenschistillegal-u20976-fr2.jpg" crc="323287778" ref="galerie"/>
+    <file name="jugendkeller fritz-u21141-fr2.jpg" crc="423924909" ref="galerie"/>
+    <file name="jugendkeller küche-u22606-fr2.jpg" crc="4047351119" ref="galerie"/>
+    <file name="jugendfreizeit-u22630-fr2.jpg" crc="3926754598" ref="galerie"/>
+    <file name="keinmenschistillegal-u20973-fr2.jpg" crc="219183804" ref="galerie"/>
+    <file name="1809 tabea scharf-u20725-fr3.jpg" crc="3985804820" ref="galerie"/>
+    <file name="jugendkeller fritz-u21141-fr3.jpg" crc="175146050" ref="galerie"/>
+    <file name="1809 kirche-u20300-fr.jpg" crc="3936169463" ref="galerie"/>
+    <file name="1809 tabea scharf-u20296-fr.jpg" crc="4149867057" ref="galerie"/>
+    <file name="1809 tabea-u20804-fr2.jpg" crc="386313941" ref="galerie"/>
+    <file name="kletteraktion-u20933-fr.jpg" crc="492912755" ref="galerie"/>
+    <file name="ikea-u20951-fr.jpg" crc="444958989" ref="galerie"/>
+    <file name="keinmenschistillegal-u20973-fr3.jpg" crc="3930244615" ref="galerie"/>
+    <file name="jugendkeller fritz-u21136-fr.jpg" crc="309968300" ref="galerie"/>
+    <file name="jugendkeller küche-u22598-fr.jpg" crc="4281656210" ref="galerie"/>
+    <file name="jugendfreizeit-u22625-fr.jpg" crc="498127480" ref="galerie"/>
+    <file name="1809 kirche-u20300-fr2.jpg" crc="3944178927" ref="galerie"/>
+    <file name="1809 tabea scharf-u20296-fr2.jpg" crc="260700030" ref="galerie"/>
+    <file name="1809 tabea-u20804-fr3.jpg" crc="521963087" ref="galerie"/>
+    <file name="kletteraktion-u20933-fr2.jpg" crc="465802407" ref="galerie"/>
+    <file name="ikea-u20951-fr2.jpg" crc="53101840" ref="galerie"/>
+    <file name="keinmenschistillegal-u20973-fr4.jpg" crc="123432168" ref="galerie"/>
+    <file name="jugendkeller fritz-u21136-fr2.jpg" crc="3902770898" ref="galerie"/>
+    <file name="jugendkeller küche-u22598-fr2.jpg" crc="4188998158" ref="galerie"/>
+    <file name="jugendfreizeit-u22625-fr2.jpg" crc="4113200315" ref="galerie"/>
+    <file name="jugendfreizeit-crop-u15670.jpg" crc="4007807171" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="1809 tabea scharf-crop-u15774.jpg" crc="198657204" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="band-crop-u15800.jpg" crc="4280300317" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kletteraktion-crop-u15826.jpg" crc="4142251140" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kunst arbeit-crop-u16888.jpg" crc="4054756486" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="p1040115-crop-u16947.jpg" crc="4104597312" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="jugendfreizeit-crop-u156702.jpg" crc="4007807171" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="1809 tabea scharf-crop-u157742.jpg" crc="198657204" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="band-crop-u158002.jpg" crc="4280300317" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kletteraktion-crop-u158262.jpg" crc="4142251140" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kunst arbeit-crop-u168882.jpg" crc="4054756486" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="p1040115-crop-u169472.jpg" crc="4104597312" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="jugendfreizeit-crop-u156703.jpg" crc="229581075" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="1809 tabea scharf-crop-u157743.jpg" crc="3859157932" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="band-crop-u158003.jpg" crc="64442606" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kletteraktion-crop-u158263.jpg" crc="3788367633" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kunst arbeit-crop-u168883.jpg" crc="266606865" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="p1040115-crop-u169473.jpg" crc="4261795368" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="jugendfreizeit375x282.jpg" crc="4123591085" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="1809 tabea scharf375x281.jpg" crc="415334047" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="band375x281.jpg" crc="3974723400" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kletteraktion375x282.jpg" crc="90407029" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="kunst arbeit-crop-u168884.jpg" crc="131448174" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+    <file name="p1040115375x281.jpg" crc="158640543" seo="true" ref="das-gibt´s">
+      <caption webpage="das-gibt´s" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="220696052" seo="true" mt="1492091661912" redirect="true"/>
+  <file name="demnächst.html" crc="39913517" seo="true" mt="1492091139075" redirect="true"/>
+  <file name="wir.html" crc="4255371050" seo="true" mt="1492088857210" redirect="true"/>
+  <file name="galerie.html" crc="4126598721" seo="true" mt="1492091661909" redirect="true"/>
+  <file name="das-gibt´s.html" crc="205671632" seo="true" mt="1492088857090" redirect="true"/>
+</manifest>
